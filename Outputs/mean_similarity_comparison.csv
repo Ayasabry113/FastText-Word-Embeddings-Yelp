@@ -1,0 +1,4 @@
+Step,Cosine Similarity
+Step 1: Yelp FastText,0.91727414727211
+Step 2: Pretrained FastText,0.6702414453029633
+Step 3: Yelp-adapted FastText,0.9201684653759002

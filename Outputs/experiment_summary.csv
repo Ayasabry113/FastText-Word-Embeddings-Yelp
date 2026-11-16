@@ -1,0 +1,2 @@
+dataset_file,number_of_text_records,number_of_nonempty_sentences,token_count_after_preprocessing,query_word,vector_size,window,min_count,epochs,pretrained_vector_file,pretrained_limit
+/kaggle/input/datasets/yelp-dataset/yelp-dataset/yelp_academic_dataset_tip.json,50001,49908,326138,good,300,5,2,5,/kaggle/input/datasets/yekenot/fasttext-crawl-300d-2m/crawl-300d-2M.vec,200000
